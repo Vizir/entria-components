@@ -15,8 +15,8 @@
     "url": "git+https://github.com/entria/entria-components"
   },
   "main": "lib/index.js",
-  "module": "src/index.js",
-  "jsnext:main": "src/index.js",
+  "module": "lib/index.js",
+  "jsnext:main": "lib/index.js",
   "devDependencies": {
     "@entria/utils": "^0.0.3",
     "@kadira/storybook": "^2.35.3",
